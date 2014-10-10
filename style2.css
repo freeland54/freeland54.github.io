@@ -52,3 +52,8 @@ div#wrapper {
 div#footer {
 	color: white;
 }
+td {
+	color: green;
+	font-style: bold;
+	font-size: 20px;
+}
