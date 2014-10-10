@@ -43,7 +43,7 @@ a:hover {
 }
 /* Make the content of the page "sit on top of" the background */
 div#wrapper {
-	background-color: transparent;
+	background-color:white;
 	width: 960px;
 	margin: 20px auto;
 	padding: 20px;
