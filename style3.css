@@ -5,7 +5,7 @@ a {
 
 /* Make the name 36px font and italicized */
 h1 {
-	font-size: 36px;
+	font-size: 26px;
 	font-style: italic;
 	color:yellow;
 }
@@ -29,8 +29,8 @@ img {
 body {
 
 	font-family: 'Droid Sands', arial;
-	background-image: url(background.jpg);
-	background-size: cover;
+	background-image: url(.jpg);
+	background-size:cover;
 	background-position: center center;
 	background-attachment: fixed;
 }
