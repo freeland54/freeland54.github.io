@@ -15,8 +15,8 @@ h4 {
 
 /* Make the job descriptions (e.g. Co-Owner, A1A Car Wash) blue and 20px font */
 h5 {
-	color: blue;
-	font-size: 20px;
+	color:blue;
+	font-size:20px;
 }
 /* Put a border around the photo, set it to the right */
 img {
