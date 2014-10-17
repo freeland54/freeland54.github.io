@@ -7,7 +7,7 @@ a {
 h1 {
 	font-size: 36px;
 	font-style: italic;
-	border: 1px solid red;
+	color: yellow;
 }
 /* Make the section headers (e.g. Summary, Experience) 26px font */
 h4 {
@@ -16,7 +16,7 @@ h4 {
 
 /* Make the job descriptions (e.g. Co-Owner, A1A Car Wash) blue and 20px font */
 h5 {
-	font-color: blue;
+	color: blue;
 	font-size: 20px;
 }
 /* Put a border around the photo, set it to the right */
@@ -44,7 +44,7 @@ a:hover {
 }
 /* Make the content of the page "sit on top of" the background */
 div#wrapper {
-	background-color: white;
+	background-color: rgba(255,255,255,0.5);
 	width: 960px;
 	margin: 20px auto;
 	padding: 20px;
