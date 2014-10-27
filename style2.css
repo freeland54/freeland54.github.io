@@ -7,6 +7,7 @@ a {
 h2 {
 	font-size: 36px;
 	font-style: italic;
+	font-color: red;
 }
 /* Make the section headers (e.g. Summary, Experience) 26px font */
 h4 {
